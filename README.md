@@ -1,4 +1,4 @@
-# 2180602115_TrinhTuanDan_QuanSinhVien_lab5
+BÀI 5:
 ![0001](https://github.com/TrinhTuandan/2180602115_TrinhTuanDan_QuanSinhVien_lab5/assets/103828753/4f377073-677f-41b6-a25c-fabc08c6139d)
 ![0002](https://github.com/TrinhTuandan/2180602115_TrinhTuanDan_QuanSinhVien_lab5/assets/103828753/da948007-94a4-432d-938c-cd1c26040103)
 ![0003](https://github.com/TrinhTuandan/2180602115_TrinhTuanDan_QuanSinhVien_lab5/assets/103828753/67bb3b02-967a-4790-8cad-7b32b99201b0)
